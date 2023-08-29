@@ -1,0 +1,8 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/UserData Archive/jeffj/source/repos/SnakeRedo/Snake/Snake/Content/Apple.png","D:/UserData Archive/jeffj/source/repos/SnakeRedo/Snake/Snake/Content/bin/Windows/Apple.xnb","TextureProcessor","Texture2DContent",279,6485,0,1792555
+"D:/UserData Archive/jeffj/source/repos/SnakeRedo/Snake/Snake/Content/Death Screen.png","D:/UserData Archive/jeffj/source/repos/SnakeRedo/Snake/Snake/Content/bin/Windows/Death Screen.xnb","TextureProcessor","Texture2DContent",3450,1920085,0,0936005
+"D:/UserData Archive/jeffj/source/repos/SnakeRedo/Snake/Snake/Content/Death.wav","D:/UserData Archive/jeffj/source/repos/SnakeRedo/Snake/Snake/Content/bin/Windows/Death.xnb","SoundEffectProcessor","SoundEffectContent",62946,63007,0,3204296
+"D:/UserData Archive/jeffj/source/repos/SnakeRedo/Snake/Snake/Content/Move.wav","D:/UserData Archive/jeffj/source/repos/SnakeRedo/Snake/Snake/Content/bin/Windows/Move.xnb","SoundEffectProcessor","SoundEffectContent",11204,11265,0,2203495
+"D:/UserData Archive/jeffj/source/repos/SnakeRedo/Snake/Snake/Content/PickUp.wav","D:/UserData Archive/jeffj/source/repos/SnakeRedo/Snake/Snake/Content/bin/Windows/PickUp.xnb","SoundEffectProcessor","SoundEffectContent",21736,21797,0,209891
+"D:/UserData Archive/jeffj/source/repos/SnakeRedo/Snake/Snake/Content/Snake.png","D:/UserData Archive/jeffj/source/repos/SnakeRedo/Snake/Snake/Content/bin/Windows/Snake.xnb","TextureProcessor","Texture2DContent",120,6485,0,0098069
+"D:/UserData Archive/jeffj/source/repos/SnakeRedo/Snake/Snake/Content/Snakehead.png","D:/UserData Archive/jeffj/source/repos/SnakeRedo/Snake/Snake/Content/bin/Windows/Snakehead.xnb","TextureProcessor","Texture2DContent",292,7285,0,0037093

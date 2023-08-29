@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/UserData Archive/jeffj/source/repos/SnakeRedo/Snake/Snake/Content/PickUp.wav</SourceFile>
+  <SourceTime>2021-07-25T17:36:41.9507178+02:00</SourceTime>
+  <DestFile>D:/UserData Archive/jeffj/source/repos/SnakeRedo/Snake/Snake/Content/bin/Windows/Content/PickUp.xnb</DestFile>
+  <DestTime>2023-08-29T13:49:25.708266+02:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2022-07-26T13:44:56+02:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T13:44:56+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
